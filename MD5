@@ -1,0 +1,15 @@
+7d93f6547a2eff1db1d8da229e9fb466 *DESCRIPTION
+8cd0ece5d35fc513a184b318f0e8499e *NAMESPACE
+937ecccf0c3ad0ab107b1e575cb6f774 *R/BRL.R
+a88c7f9b571139ce69411aa612202045 *R/bipartiteGibbs.R
+b9173c962f1fe100e166586275b85c8b *R/compareRecords.R
+8eb522778211dd39a77e7448720efbb3 *R/linkRecords.R
+2f1c837eb9044385d020e23a6012fb09 *README.md
+3d5b63ef9fe31cfa9818e3536fdf3081 *data/twoFiles.RData
+d3fb66bce718ce73f87c069dfe6808a5 *man/BRL.Rd
+950c7fab874103be31c3f98cef675840 *man/bipartiteGibbs.Rd
+83788e1e28c009c8159cb95be9e436e9 *man/compareRecords.Rd
+0d3d4929cf3bbd7a3c9e7286c6a08e04 *man/linkRecords.Rd
+ea42d565ac18a584c5760c97832e53a5 *man/twoFiles.Rd
+4a34e00135f2e72a15abea2808b9a31d *src/BRL-init.c
+70945adcb3e2256f006c0b675b4f540c *src/BRLGibbs.c

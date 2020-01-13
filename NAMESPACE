@@ -1,0 +1,6 @@
+useDynLib(BRL,.registration=TRUE)
+importFrom("utils", "adist")
+export(BRL)
+export(compareRecords)
+export(bipartiteGibbs)
+export(linkRecords)
